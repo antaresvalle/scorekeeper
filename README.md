@@ -25,4 +25,4 @@ En esta parte se describe la funcionalidad del proyecto descrito en pasos
 
 ### Descripcion
 
-![Diagrama de Flujo del problema SOCOREKEEPER](assets/img/diagrama-flujo-scorekeeper.png)
+![Diagrama de Flujo del problema SOCOREKEEPER](assets/image/diagrama-flujo-scorekeeper.png)
